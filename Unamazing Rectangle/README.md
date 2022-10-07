@@ -3,7 +3,7 @@ It's basically just the game **Amazing Gear** but instead of a gear, it's a rect
 Just run the **Main** and enjoy.  
   
 Use **Left** and **Right arrow keys** to play. **Space** to pause and resume.  
-and **Enter** or **Space** to return to the Gamepanel from the Scorepanel.
+and **Enter** or **Space** to return to the *Gamepanel* from the *Scorepanel*.
 
 
 
